@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site, teste.
+Fazendo um teste de como fazer um merge e também resolvendo conflitos de branch através do Github Desktop.
