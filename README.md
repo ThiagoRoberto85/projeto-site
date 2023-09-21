@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site, teste.
+ Projeto de aprendizado de como utilizar branchs.
